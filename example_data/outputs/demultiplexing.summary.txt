@@ -1,0 +1,2 @@
+total_reads	reads_extracted	failed_to_id_landmarks	failed_to_id_sample	failed_to_extract_target	failed_quality
+250000	206699	21597	19	21611	74

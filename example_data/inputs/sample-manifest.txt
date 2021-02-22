@@ -1,0 +1,7 @@
+sample	sample_barcode	guide	pam	enzyme	cut	off_target_file
+16hr-gDNA1	TATACAATTCGCAGC	GGCCTCCCCAAAGCCTGGCCA	GGGAGT	Cas9	TRUE	example_data/inputs/offtarg.csv.gz
+16hr-gDNA2	CCGGAGTAGGTCCTC	GGCCTCCCCAAAGCCTGGCCA	GGGAGT	Cas9	TRUE	example_data/inputs/offtarg.csv.gz
+16hr-gDNA3	ATTGCAAGGGCCCTT	GGCCTCCCCAAAGCCTGGCCA	GGGAGT	Cas9	TRUE	example_data/inputs/offtarg.csv.gz
+16hr+gDNA1	TCCCGTCGTCCACAA	GGCCTCCCCAAAGCCTGGCCA	GGGAGT	Cas9	TRUE	example_data/inputs/offtarg.csv.gz
+16hr+gDNA2	TGCGTGACAAGCTCT	GGCCTCCCCAAAGCCTGGCCA	GGGAGT	Cas9	TRUE	example_data/inputs/offtarg.csv.gz
+16hr+gDNA3	GCGCAGTCTTTCTGC	GGCCTCCCCAAAGCCTGGCCA	GGGAGT	Cas9	TRUE	example_data/inputs/offtarg.csv.gz
